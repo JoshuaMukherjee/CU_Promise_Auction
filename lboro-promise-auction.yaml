@@ -13,10 +13,10 @@ envs:
   value: ${db.DATABASE_URL}
 - key: DEBUG
   scope: RUN_AND_BUILD_TIME
-  value: "False"
+  value: "True"
 - key: DJANGO_SECRET_KEY
   scope: RUN_AND_BUILD_TIME
-  value: '{sVCbd</9)v_RAS^f?3n]6)+@4]YwQeP'
+  value: 'G7gZVA/DvrcJ;68}2R#fLq3h"CXBHa'E'
 name: lboro-promise-auction
 region: lon
 services:
